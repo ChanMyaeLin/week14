@@ -1,0 +1,12 @@
+.items{
+    background-color: red;
+    font: 300;
+    font-weight: 300;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.hot{
+    background-color: blue;
+}
+.priority{
+    background-color: darkgray;
+}
